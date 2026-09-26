@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Hi,%20I'm%20Gowtham&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Workflows%20%26%20NLP&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2600&pause=900&color=E8A33D&center=true&vCenter=true&width=560&height=50&lines=Production-Grade+RAG+Systems;Autonomous+Multi-Agent+Pipelines;LLM+Finetuning+%26+Deployment;Full-Stack+AI+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=2600&pause=900&color=E8A33D&center=true&vCenter=true&width=560&height=50&lines=Production-Grade+RAG+Systems;Autonomous+Multi-Agent+Pipelines;LLM+Finetuning+%26+Deployment;Full-Stack+AI+Applications" alt="Typing SVG"/>
 
 <br/>
 
@@ -48,66 +48,6 @@ Specialized in **Production Grade RAG**, **Autonomous Multi-Agent Systems**, and
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>🔍 How I approach AI engineering problems</b> — click to expand</summary>
-<br/>
-
-I start from the manual process, not the model. Before picking an architecture, I map where the effort actually goes — repetitive lookups, judgment calls that follow a pattern, data that has to be re-typed between systems — and only then decide whether it needs retrieval, an agent, a fine-tune, or just a script.
-
-For anything customer- or production-facing, I default to **RAG over fine-tuning** unless the task genuinely needs behavior change rather than knowledge access — it's cheaper to update and easier to audit. Multi-agent setups earn their complexity only when a single well-scoped agent with good tools can't do the job.
-
-</details>
-
-<details>
-<summary><b>🧭 Why this stack</b> — click to expand</summary>
-<br/>
-
-- **LangChain + LlamaIndex** — orchestration and retrieval, picked per task rather than defaulting to one
-- **Vector databases** — the retrieval layer under every RAG system I build
-- **Model Context Protocol** — standardizing how agents reach tools and data instead of writing one-off integrations per project
-- **FastAPI** — the serving layer between a model and an actual user-facing application
-- **Hugging Face + Scikit-Learn** — model access and finetuning, plus the classical ML that still solves half of these problems faster than an LLM would
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=header" width="100%"/>
-
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gowthams-stack&theme=algolia&no-frame=true&margin-w=8&row=1&column=6"/>
-</div>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowthams-stack/gowthams-stack/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowthams-stack/gowthams-stack/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gowthams-stack/gowthams-stack/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<sub>Requires a one-time GitHub Action — workflow file provided separately, see setup steps.</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=header" width="100%"/>
-
-<h2 align="center">⚡ Fun Fact</h2>
-
-<p align="center">
-I started out as an Automobile Engineering graduate — now I train models instead of tuning engines, but the debugging mindset carried right over.
-</p>
 
 <br/>
 
